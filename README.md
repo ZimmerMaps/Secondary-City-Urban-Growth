@@ -1,8 +1,17 @@
-#   Title:      Secondary City Population Growth
+# Secondary City Population Growth
 
-#   Name:       Andy Zimmer
-#   Contact:    azimmer@arizona.edu
+**Purpose**:         Generate dataset for analysis containing variables for urban population through time and covariates on climate, distance and proximal land-use
 
-#   Updated:    jan 2020
-#   Purpose:    generate dataset for analysis containing variables for urban population through time and
-#               covariates on climate, distance and proximal land-use
+**Data Involved**:    
+
+GHS-POP gridded population data (1975, 1990, 2000, 2015)
+
+Urban polygonal boundaries from Tuholske et al. (2019)
+                      
+Aggregated CHIRPS daily precipitation
+                      
+Urban distance matrix using NASA gROADS
+                      
+**Output**:               Zimmer, A., Guido, Z., Tuholske, C., Pakalniskis, A., Lopus, S., Caylor, K., & Evans, T. (2020). Dynamics of population growth in secondary cities across southern Africa. _Landscape Ecology_, 35(11), 2501-2516.
+
+**Code Last Updated**:    Jan 2020
