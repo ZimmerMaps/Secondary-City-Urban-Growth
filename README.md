@@ -15,3 +15,6 @@ Urban distance matrix using NASA gROADS
 **Output**:               Zimmer, A., Guido, Z., Tuholske, C., Pakalniskis, A., Lopus, S., Caylor, K., & Evans, T. (2020). Dynamics of population growth in secondary cities across southern Africa. _Landscape Ecology_, 35(11), 2501-2516.
 
 **Code Last Updated**:    Jan 2020
+
+![](https://github.com/ZimmerMaps/Secondary-City-Urban-Growth/blob/main/Screenshot%202024-03-01%20at%2014.35.02.png)
+![](https://github.com/ZimmerMaps/Secondary-City-Urban-Growth/blob/main/Screenshot%202024-03-01%20at%2014.35.14.png)
